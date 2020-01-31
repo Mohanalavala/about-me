@@ -34,3 +34,4 @@ We need some languages like
 * Mohan Krishna Alavala
 * Masters in Applied computer science
 ![favorite image](https://wallpapercave.com/wp/wp4081932.jpg)
+[image source](https://wallpapercave.com/jr-ntr-wallpapers)
