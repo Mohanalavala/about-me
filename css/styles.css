@@ -30,7 +30,7 @@
 				text-align:center; 
 				margin-bottom:20px; 
 			} 
-			article { 
+			/* article { 
 				width: 50%; 
 				float: left; 
 				padding:10px; 
@@ -46,7 +46,7 @@
 				margin:10px; 
 				height:100px; 
       } 
-      
+       */
       ul {
         list-style-type: none;
         margin: 0;
@@ -87,4 +87,23 @@
       #footer2{
       margin-left:2%;
       float:left;
+      }
+
+      .contentContainer{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        padding: 32px;
+      }
+
+      .articleContainer{
+        display: flex;
+        flex-direction: column;
+        width: 40%;
+      }
+
+      .asideContainer{
+         display: flex;
+         flex-direction: column;
+         width: 40%;
       }
