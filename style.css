@@ -1,11 +1,22 @@
-html {
+head {
 background-color: #fafafa;
 }
 
-h3 {
-   text-align: center;
+.title{
+  text-align: center;
+  color: red;
 }
 
+h1 {
+   text-align: center;
+   color:red
+}
+
+.circular--square {
+  border-radius: 50%;
+  align-items: center;  
+  
+}
 input[type=text]{
   padding: 12px;
   border: 1px solid #ccc;
